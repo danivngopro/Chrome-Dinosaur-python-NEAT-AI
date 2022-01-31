@@ -28,7 +28,7 @@
 ### About:
 
 -	The following represents a recreated version of the famous Dinosaur Game from Chrome Browser Offline mode implemented using **Python and PyGame**. The project file contains **Image Files** and a python script **(main.py)**.
--	The original code was just the game, it had been refactored and modified with the AI code.
+-	The original code was just the game, it had been refactored and modified with the AI code using NEAT.
 -	In addition, it has another python file that saves the neural network when it's done training and also used to load the nn and keep training from a saved point.
 -	A simple and easy-to-use GUI is provided for better gameplay. The gameplay design is so simple that the user won’t find it difficult to use and understand. Different images are used in the development of this simple game project, the gaming environment is just like the original Chrome Dino Run game. For demo of the project, have a look at the GIF below.
 
