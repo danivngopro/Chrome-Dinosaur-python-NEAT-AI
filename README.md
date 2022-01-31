@@ -3,9 +3,7 @@
   <h2 align="center" style="margin-top: -4px !important;">NEAT AI of the hidden Dinosaur Game from Chrome Browser.
 	  the AI was built over the basic game code taken from https://github.com/codewmax/ChromeDinosaur </h2>
   <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
+    
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/python-v3.8-informational">
     </a>
