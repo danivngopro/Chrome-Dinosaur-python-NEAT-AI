@@ -34,6 +34,10 @@
   <img src="https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/assets/Other/Chrome%20Dino.gif">
 </p>
 
+example of the AI in proggress:
+![image](https://user-images.githubusercontent.com/44786079/151764933-efbc33d2-9ab8-4b57-8659-181862a7d08c.png)
+
+
 ### Installation:
 
 -	First of all, **clone the repository** using:
