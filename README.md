@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/assets/DinoWallpaper.png" width="97" height="97">
-  <h2 align="center" style="margin-top: -4px !important;">A Replica of the hidden Dinosaur Game from Chrome Browser Offline mode so you don't have to be offline to play it...😂😂</h2>
+  <h2 align="center" style="margin-top: -4px !important;">NEAT AI of the hidden Dinosaur Game from Chrome Browser.
+	  the AI was built over the basic game code taken from https://github.com/codewmax/ChromeDinosaur </h2>
   <p align="center">
     <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-informational">
@@ -37,33 +38,25 @@
 
 -	First of all, **clone the repository** using:
 ```
-git clone https://github.com/dhhruv/Chrome-Dino-Runner.git
+git clone https://github.com/danivngopro/Chrome-Dinosaur-python-NEAT-AI.git
 ``` 
 **OR**
 Download the Zip and extract it's contents.
 
 -	Then download the dependencies in your Command Prompt OR Terminal using:
 ```
-pip install requirements.txt
+pip install all the imports in main.py
 ```
 
 ### Usage:
 
--	After installation, just run the [`chromedino.py`](https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/chromedino.py) using
+-	After installation, just run the main.py using
 ```
-python chromedino.py
+python main.py
 ```
-
-### Input:
-
-| Keys              | Actions                                                       |
-|-------------------|---------------------------------------------------------------|
-|  `Any Key`        |    Press any key to Start the Game.                           | 
-|   **&#8593;**     |    Press `Up Arrow` to jump and avoid cacti.                  |
-|   **&#8595;**     |    Press `DOwn Arrow` to duck and avoid pterodactyls.         |
-
 
 ### References:
 -	http://www.pygame.org/docs
 -	https://en.wikipedia.org/wiki/Dinosaur_Game
+-	https://neat-python.readthedocs.io/en/latest/
 -	Various articles and videos.
